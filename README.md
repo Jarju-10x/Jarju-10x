@@ -1,10 +1,6 @@
-# Hello, I'm Mohammad Jarju! 👋
+# Hi there
 
-🌱 Lifelong learner and BCA 2025 student passionate about DSA, development, and technology.
-
-🚀 Always eager to sharpen my problem-solving skills and tackle interesting coding challenges.
-
-🔭 I’m looking to collaborate on open-source projects and interesting coding challenges.
+I'm Mohammad Jarju, a BCA 2025 student with a passion for 🚀 problem-solving, DSA, and development. I'm always excited about learning and growing in the tech world.
 
 🌐 **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-jarju-10x)
@@ -19,10 +15,10 @@ Check out my profiles on:
 ## 💡 Interests and Skills
 
 I'm passionate about:
-- Complex problem solving using DSA (competitive programming)
-- DevOps
-- Backend technologies
-- Integration of modern AI
+- 🦾 Complex problem solving using DSA (competitive programming)
+- 🦈 DevOps
+- 🗿 Backend technologies
+- 🤖 Integration of modern AI
 
 🔧 **Technologies and Tools** I use:
 ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2b&logoColor=white)
@@ -44,6 +40,3 @@ Let's dive into my GitHub contributions:
 My frequently used languages:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarju-10x)
-
-🐍 **Snake Animation:**
-![Snake Animation](https://github.com/Jarju-10x/Jarju-10x/blob/output/github-contribution-grid-snake-dark.svg)
