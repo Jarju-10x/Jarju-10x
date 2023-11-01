@@ -1,12 +1,16 @@
-# Hi there
+# Hello, I'm Mohammad Jarju! 👋
 
-I'm Mohammad Jarju, a BCA 2025 student with a passion for 🚀 problem-solving, DSA, and development. I'm always excited about learning and growing in the tech world.
+🌱 Lifelong learner and BCA 2025 student passionate about DSA, development, and technology.
+
+🚀 Always eager to sharpen my problem-solving skills and tackle interesting coding challenges.
+
+🔭 I’m looking to collaborate on open-source projects and interesting coding challenges.
 
 🌐 **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-jarju-10x)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-## 🚗 Profiles
+## 👩‍💻 Profiles
 
 Check out my profiles on:
 - [LeetCode](https://leetcode.com/mohammad-jarju)
