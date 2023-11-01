@@ -1,12 +1,12 @@
 ### Hi there, I'm Mohammad Jarju  👋
 
-🌱 Always learning, always growing. BCA 2025 student passionate about DSA and web development.
+🌱 Always learning, always growing. 
 
-🚀 Currently working on [Your Project] and [Another Project].
+👩‍💻 BCA 2025 student passionate about DSA and  development.
 
 🔭 I’m looking to collaborate on open-source projects and interesting coding challenges.
 
-📫 You can reach me at [Your Email] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile)!
+📫 You can connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-jarju-10x)!
 
 🚗 Check out my profiles on [LeetCode](https://leetcode.com/your-username), [Codeforces](https://codeforces.com/profile/your-username), and more.
 
