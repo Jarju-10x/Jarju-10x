@@ -1,6 +1,10 @@
-# Hi there
+# Hello, I'm Mohammad Jarju! 👋
 
-I'm Mohammad Jarju, a BCA 2025 student with a passion for 🚀 problem-solving, DSA, and development. I'm always excited about learning and growing in the tech world.
+🌱 Lifelong learner and BCA 2025 student passionate about DSA, development, and technology.
+
+🔭 I’m looking to collaborate on open-source projects and interesting coding challenges.
+
+🚀 Always eager to sharpen my problem-solving skills and tackle interesting coding challenges
 
 🌐 **Connect with me:**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-jarju-10x)
