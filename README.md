@@ -16,6 +16,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammadJarju&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jarju-10x&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadJarju)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jarju-10x)
