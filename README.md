@@ -13,8 +13,8 @@
 ## 👩‍💻 Profiles
 
 Check out my profiles on:
-- [LeetCode](https://leetcode.com/mohammad-jarju)
-- [Codeforces](https://codeforces.com/profile/mohammad-jarju)
+- [LeetCode](https://leetcode.com/jarjudrag/)
+- [HackerRank](https://www.hackerrank.com/profile/jarjudrag)
 
 ## 💡 Interests and Skills
 
