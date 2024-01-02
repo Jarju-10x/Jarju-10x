@@ -15,6 +15,7 @@
 Check out my profiles on:
 - [LeetCode](https://leetcode.com/jarjudrag/)
 - [HackerRank](https://www.hackerrank.com/profile/jarjudrag)
+- [CodeForces](https://codeforces.com/profile/Jarju-10x)
 
 ## 💡 Interests and Skills
 
