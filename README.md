@@ -7,8 +7,8 @@
 🚀 Always eager to sharpen my problem-solving skills and tackle interesting coding challenges
 
 🌐 **Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-jarju-10x)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jarjudrag@gmail.com)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohammad-jarju-10x)
+[![Email](https://skillicons.dev/icons?i=gmail)](mailto:jarjudrag@gmail.com)
 
 ## 👩‍💻 Profiles
 
