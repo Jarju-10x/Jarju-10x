@@ -28,9 +28,9 @@ I'm passionate about:
 🔧 **Technologies and Tools** I use:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c++,c,java,python,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=c++,c,java,python,javascript,html,css,huikg" />
     <br/>
-    <img src="https://skillicons.dev/icons?i=linux,vim,bash,nginx,apache" />
+    <img src="https://skillicons.dev/icons?i=linux,vim,bash,nginx,cmake,apache" />
     <br/>
     <img src="https://skillicons.dev/icons?i=git,docker,nodejs,ansible" />
   </a>
