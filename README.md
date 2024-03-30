@@ -29,7 +29,10 @@ I'm passionate about:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c++,c,java,python,javascript,html,css" />
-    <img src="https://skillicons.dev/icons?i=linux,vim,bash" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=linux,vim,bash,nginx,apache" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=git,docker,nodejs,ansible" />
   </a>
 </p>
 
