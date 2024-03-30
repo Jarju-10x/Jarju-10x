@@ -28,7 +28,8 @@ I'm passionate about:
 🔧 **Technologies and Tools** I use:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=c++,c,java,python,javascript,html,css" />
+    <img src="https://skillicons.dev/icons?i=linux,vim,bash" />
   </a>
 </p>
 
